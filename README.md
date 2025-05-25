@@ -20,7 +20,7 @@ This is a tribute page created as part of the freeCodeCamp Responsive Web Design
 To run this project locally:
 
 1. Clone the repository:
-   git clone https://github.com/AnouGeek/tribute-page.git
+   git clone https://github.com/AnouGeek/tribute-page-freeCodeCamp.git
 2. Open the folder and launch the index.html file in your browser.
 
 ## 📸 Screenshot ##
